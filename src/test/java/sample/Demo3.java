@@ -7,5 +7,6 @@ public class Demo3 {
 	public void method()
 	{
 		System.out.println("Re Check ops");
+		System.out.println("Re Check ops2");
 	}
 }

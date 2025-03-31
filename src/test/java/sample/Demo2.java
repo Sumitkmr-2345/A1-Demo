@@ -7,5 +7,6 @@ public class Demo2 {
 		public void method()
 		{
 			System.out.println("hello");
+			
 		}
 }
