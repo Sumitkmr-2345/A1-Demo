@@ -8,6 +8,7 @@ public class Demo2 {
 		{
 			System.out.println("hello");
 			System.out.println("hello Github");
+			System.out.println("hello GIT");
 			
 		}
 }
